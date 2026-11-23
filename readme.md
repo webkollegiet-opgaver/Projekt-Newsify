@@ -52,7 +52,7 @@ Husk at 'nice-to-have' opgaverne **ikke** er valgfrie opgaver! Det forventes at 
 
 1. Tilføj Swipe-down to refresh på nyhedsliste:
    ([se illustration](./assets/pull-to-refresh-823x1024.png "swipe-down"))
-1. Feature tutorial første gang webapplikationen bruges: ([se illustration](./assets/tutorial.png "tutorial"))
+1. Feature tutorial første gang webapplikationen bruges: Splash screen, Onbording og Login se figma filen
 1. Gør det muligt at redigere rækkefølgen på kategorier i settings. Rækkefølgen skal have indflydelse på den rækkefølge kategorierne listes i nyhedslisten.
 
 ## Evaluering
