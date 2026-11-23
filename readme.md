@@ -16,6 +16,7 @@ Fra settings panelet skal brugeren have mulighed for at administrere det kategor
 
 - HTML (structure)
 - JavaScript (logic / data collection)
+- React
 - Vite (build system)
 - Sass (css preprocessor)
 - GitHub / Netlify (host)
